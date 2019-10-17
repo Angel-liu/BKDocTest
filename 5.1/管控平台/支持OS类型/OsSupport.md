@@ -1,7 +1,7 @@
 # 支持 OS 类型
 
 <table><tbody>
-<tr><td>OS 类型 </td><td> 主要 OS 版本 </td></tr>
+<tr><td width='25%'>OS 类型 </td><td> 主要 OS 版本 </td></tr>
 <tr><td rowspan="5">CentOS</td></tr>
 <tr><td>5.8 32/64 位 </td></tr>
 <tr><td>5.11 32/64 位 </td></tr>
