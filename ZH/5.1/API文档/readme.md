@@ -8,6 +8,8 @@
  - 将蓝鲸与第三方系统集成；
  - 自动化执行常规任务等。
 
+键入或删除内容 
+
 API 主要包含以下几种方法：get, create/add, update, delete, find/search, send, import, export等
 
 **注意：**
