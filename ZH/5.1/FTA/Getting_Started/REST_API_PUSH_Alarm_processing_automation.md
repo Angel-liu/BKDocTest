@@ -9,7 +9,7 @@
 
 - [蓝鲸配置平台纳管了主机](5.1/bk_solutions/CD/CMDB/CMDB_management_hosts.md)
 
-- [作业平台新建一个作业](5.1/bk_solutions/CD/Automation/Massive_host_control.md)
+- [作业平台新建一个作业](5.1/bk_solutions/CD/Automation/Massive_host_control.md#新建作业)
 
 ## 术语解释
 
